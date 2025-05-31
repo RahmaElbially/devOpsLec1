@@ -12,4 +12,4 @@ jobs:
            run: ls -ltra
          - name: run shell script 
            run: chmod +x script.sh
-                 ./script.sh 
+            ./script.sh 
